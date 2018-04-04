@@ -1,0 +1,22 @@
+{
+  "name": "long-ng5-breadcrumb",
+  "version": "1.0.0",
+  "description": "Long - Angular 5 breadcrumb.",
+  "main": "bundles/breadcrumb.umd.js",
+  "module": "index.js",
+  "typings": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nameless860/ng5-breadcrumb.git"
+  },
+  "author": "longluong <luonggialong195@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nameless860/ng5-breadcrumb/issues"
+  },
+  "homepage": "https://github.com/nameless860/ng5-breadcrumb#readme",
+  "peerDependencies": {
+    "@angular/core": "^5.0.0",
+    "rxjs": "^5.5.2"
+  }
+}
